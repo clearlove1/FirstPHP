@@ -1,2 +1,0 @@
-# FirstPHP
-None
